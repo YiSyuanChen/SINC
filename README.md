@@ -19,7 +19,7 @@ Original PyTorch implementation for ICCV 2023 Paper "SINC: Self-Supervised In-Co
 
 # Instructions
 ## Dataset
-The datasets involve raw images and texts with the extracted features. Please refer to the dataset folder.
+The datasets involve raw images and texts (_arrows/_) with the extracted features (_features/_) and concepts (_concepts/_). Please refer to the dataset folder.
 
 ## Run the Codes
 We provide the scripts for training and evaluation for SINC. Please refer to _run.sh_.
