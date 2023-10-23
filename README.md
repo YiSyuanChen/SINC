@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/YiSyuanChen/SINC/blob/main/framework.png" width="2808" height="938">
+  <img src="https://github.com/YiSyuanChen/SINC/blob/main/framework.png">
 </p>
 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_SINC_Self-Supervised_In-Context_Learning_for_Vision-Language_Tasks_ICCV_2023_paper.pdf)]
